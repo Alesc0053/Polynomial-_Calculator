@@ -1,0 +1,6 @@
+org\example\Logic\Operations.class
+org\example\GUI\UI.class
+org\example\Model\Polynomial.class
+org\example\Main.class
+org\example\Model\Monomial.class
+org\example\Model\MonomialDouble.class
